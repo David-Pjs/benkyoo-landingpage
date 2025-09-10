@@ -1,0 +1,8 @@
+{
+  "version": "0.1.5",
+  "windows": {
+    "zip": "/downloads/Benkyoo-0.1.5-Setup.zip",
+    "portable": "/downloads/Benkyoo-0.1.5-Portable.exe",
+    "installer": "/downloads/Benkyoo-0.1.5-Setup.exe"
+  }
+}
